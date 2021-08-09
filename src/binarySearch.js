@@ -1,4 +1,4 @@
-// Add - Adds two numbers and returns the result.
+// binarySearch - Returns the index of a number value in a sorted array.
 
 function binarySearch(a, v, start=undefined, end=undefined) {
   // If start and end aren't defined, define them
